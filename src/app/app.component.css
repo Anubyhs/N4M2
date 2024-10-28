@@ -1,0 +1,17 @@
+nav {
+  background-color: #90ee90;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: #f0ec14;
+}
+
+.navbar-nav .nav-link {
+  color: #0044fd;
+  font-weight: bold;
+}
+
+.bg-lightgreen-custom {
+  background-color: #C6F7D0;
+}
